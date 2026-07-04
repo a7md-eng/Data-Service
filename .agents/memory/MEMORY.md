@@ -1,0 +1,1 @@
+- [PS4 Hall Manager](ps4-hall-manager.md) — Expo mobile app for Arabic gaming hall management; all storage via AsyncStorage, no backend needed.

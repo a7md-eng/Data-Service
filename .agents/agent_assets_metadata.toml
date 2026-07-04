@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "JxNZiYejVsnZKp0kiDSsh"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "ps4 hall manager icon"
