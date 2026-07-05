@@ -10,10 +10,10 @@ title = "ps4 hall manager icon"
 id = "x9Ga-8CSaeIX1cVKol_Ih"
 uri = "file://downloads/ps4-hall-manager-mobile-app.tar.gz"
 type = "unspecified"
-title = "كود التطبيق (لبناء APK)"
+title = "كود التطبيق مع إعداد GitHub Actions"
 
 [[outputs]]
 id = "wcT3vk5OuAOVhIzJnjdO6"
 uri = "file://artifacts/mobile/دليل-بناء-APK.md"
 type = "text"
-title = "دليل بناء APK - خطوة بخطوة"
+title = "دليل بناء APK من الهاتف فقط (بدون كمبيوتر)"
