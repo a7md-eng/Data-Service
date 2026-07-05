@@ -1,8 +1,19 @@
 uploads = []
-outputs = []
 
 [[generated]]
 id = "JxNZiYejVsnZKp0kiDSsh"
 uri = "file://artifacts/mobile/assets/images/icon.png"
 type = "image"
 title = "ps4 hall manager icon"
+
+[[outputs]]
+id = "x9Ga-8CSaeIX1cVKol_Ih"
+uri = "file://downloads/ps4-hall-manager-mobile-app.tar.gz"
+type = "unspecified"
+title = "كود التطبيق (لبناء APK)"
+
+[[outputs]]
+id = "wcT3vk5OuAOVhIzJnjdO6"
+uri = "file://artifacts/mobile/دليل-بناء-APK.md"
+type = "text"
+title = "دليل بناء APK - خطوة بخطوة"
